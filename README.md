@@ -11,9 +11,6 @@ Un método que retorne el día de la semana solicitado
 Un método que retorne si el día solicitado existe en la lista
 Un método para ordenar la lista de días por orden alfabético
 Un método para vaciar la lista
-Requisitos :
-Se debe realizar un test unitario de cada método
-Se debe utilizar la colección "List" de java.util
 
 ## Requisitos
 
