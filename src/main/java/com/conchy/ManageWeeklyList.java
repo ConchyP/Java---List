@@ -61,9 +61,9 @@ public class ManageWeeklyList {
 
 
     public static void main(String[] args) {
+
         ManageWeeklyList weeklyList = new ManageWeeklyList();
 
-      
         System.out.println("Days of the week:");
         weeklyList.printDaysOfWeek(weeklyList.getDaysOfWeek());
         System.out.println("Length of the list: " + weeklyList.getLengthOfDaysList());
